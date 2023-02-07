@@ -1,0 +1,23 @@
+All textures belong to the Furfsky Reborn team (discord.gg/fsr) 
+Edits made by 8KCoffeeWizard & jani
+lucy for testing stuff
+
+Changelog:
+???
+ idk too lazy for this will do later  
+
+
+Version 10.3
+- Fixed pv inventory page
+- Added background for pv crimson isle page
+- Added trophy fish overlay
+- Added pv hotm page
+- Added essence gui
+- Added minion overlay
+
+Version 10.4
+- Fixed pv crimson isle page
+
+Version 10.5
+- Fixed pv basic page
+- Added pv levels page
